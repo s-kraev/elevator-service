@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Distribution / packaging
+.Python
+build/
+
+# Unit test / coverage reports
+htmlcov/
+.coverage
+*.py,cover
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+.idea/
+.git/
