@@ -9,6 +9,7 @@ build/
 htmlcov/
 .coverage
 *.py,cover
+.pytest_cache/
 
 # Environments
 .env
